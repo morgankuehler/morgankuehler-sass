@@ -1,0 +1,31 @@
+{
+  "name": "icj-sass-refactor-template",
+  "version": "1.0.0",
+  "description": "## Set up the project",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utdata/icj-sass-refactor-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utdata/icj-sass-refactor-template/issues"
+  },
+  "homepage": "https://github.com/utdata/icj-sass-refactor-template#readme"
+}

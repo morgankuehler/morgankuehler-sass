@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  font-family: Arial;
+  color: $primarycolor ;
+}
+
+p, a {
+  font-size: 1 rem;
+}
+
+img {
+  padding-left: 30px;
+  height: 350px;
+  width: 550px;
+}
+
+ul {
+  list-style: square;
+}
+
+.container {
+  min-height: 100%;
+  display: flex;
+
+}
